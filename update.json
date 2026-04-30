@@ -1,5 +1,7 @@
+
 {
-  "version": 4,
+  "version": 2,
+  "version_name": "v2.0",
   "changelog": "• New UI design\n• Faster performance\n• Bug fixes\n• Dark mode added",
-  "link": "https://github.com/HarendraSingh06/myapp-update/releases/download/v2/your_app.apk"
+  "link": "YOUR_APK_LINK"
 }
